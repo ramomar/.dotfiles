@@ -47,8 +47,6 @@ set background=light
 "set background=dark
 colorscheme solarized
 
-map <D-1> :NERDTreeToggle<CR>
-
 set autoindent
 
 if has('gui_running')
